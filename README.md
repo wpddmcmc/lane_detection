@@ -4,10 +4,6 @@
 
 **Author:** 陈明聪 Michael.CHEN
 
-**If Bus, plz contact me by wechat**
-
-![wechat](https://gitee.com/T_Geek/collection_of_tutorials/raw/master/wechat.jpg)
-
 ---
 
 ### 1.项目介绍 -Introduction
